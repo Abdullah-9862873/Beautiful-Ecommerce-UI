@@ -1,1 +1,1 @@
-# Ecommerce-UI
+## This e-commerce store offers a comprehensive solution for online shopping, complete with all the necessary functionalities to provide a seamless and efficient experience for the client. The design is fully responsive, ensuring optimal usability on any device.
